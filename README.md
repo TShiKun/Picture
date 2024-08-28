@@ -1,2 +1,2 @@
 # Picture
-This Repository mainly for storing My Url Images
+This Repository mainly for storing my Url Images
